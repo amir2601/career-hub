@@ -34,11 +34,11 @@ const FeaturedJobs = () => {
                             <div className="flex gap-4">
                                 <div className="flex items-center gap-2">
                                     <IoLocationOutline></IoLocationOutline>
-                                    <p>Location</p>
+                                    <p>{job.job_location}</p>
                                 </div>
                                 <div className="flex items-center gap-2">
                                     <ImCoinDollar></ImCoinDollar>
-                                    <p>Salary</p>
+                                    <p>{job.salary} (Per Month)</p>
                                 </div>
                             </div>
                             <button className="btn btn-primary text-white">
