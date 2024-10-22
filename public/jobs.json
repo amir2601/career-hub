@@ -1,117 +1,98 @@
 [
-     {
-      "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-      "job_title": "Technical Database Engineer",
+  {
+      "id": "1",
+      "img": "https://i.imghippo.com/files/uCpHk1729493168.png",
       "company_name": "Google LLC",
-      "remote_or_onsite": "Remote",
-      "location": "Dhaka, Bangladesh",
-      "job_type": "Full Time",
+      "position": "Technical Database Engineer",
+      "phone": "0171564248",
+      "email": "google@gmail.com",
+      "job_type": "Remote",
+      "job_time": "Full-Time",
       "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
-      "experiences": "2-3 Years in this field.",
-      "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-      }
-    },
-    {
-        "id": 2,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 3,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Google LLC",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 5,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 6,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      }
-  
-  ]
+      "job_location": "Dhaka, Bangladesh",
+      "job_des": "Database Engineers administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability.",
+      "job_res": "Works with researchers, statisticians, and faculty to develop data analysis, quality control, and reporting plans for research projects. Supports the current programs that researchers and faculty use to access the DCCs data entry, management, and retrieval systems.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "1-2 Years in this field."
+  },
+  {
+      "id": "2",
+      "img": "https://i.imghippo.com/files/l4FRW1729493192.png",
+      "company_name": "Netflix",
+      "position": "Senior Product Designer",
+      "phone": "01711557799",
+      "email": "netflix@gmail.com",
+      "job_type": "Onsite",
+      "job_time": "Part-Time",
+      "salary": "150k-250k",
+      "job_location": "Dhaka, Bangladesh",
+      "job_des": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface",
+      "job_res": "Job Responsibility: Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "2-5 Years in this field."
+  },
+  {
+      "id": "3",
+      "img": "https://i.imghippo.com/files/4WItS1729493218.png",
+      "company_name": "Tesla",
+      "position": "Software Engineer",
+      "phone": "01707453344",
+      "email": "tesla@gmail.com",
+      "job_type": "Remote",
+      "job_time": "Full-Time",
+      "salary": "80k-120k",
+      "job_location": "New York, Usa",
+      "job_des": "We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on projects that are currently being developed on by our company. Duties will include but are not limited to developing and directing software system validation and testing methods, as well as directing our software programming initiatives. You will also be working closely with clients and cross-functional departments to communicate project statuses and proposals.",
+      "job_res": "Developing and directing software system validation and testing methods. Directing our software programming initiatives. Overseeing the development of documentation. Working closely with clients and cross-functional departments to communicate project statuses and proposals.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "3-6 Years in this field."
+  },
+  {
+      "id": "4",
+      "img": "https://i.imghippo.com/files/c9wwr1729493656.png",
+      "company_name": "Ollyo",
+      "position": "Senior Analyst, Tech Support",
+      "phone": "01742381275",
+      "email": "ollyo@gmail.com",
+      "job_type": "Onsite",
+      "job_time": "Part-Time",
+      "salary": "50k-400k",
+      "job_location": "Dhaka, Bangladesh",
+      "job_des": "The Senior Technical Analyst will provide high-level technical support and systems analysis to identify, prevent, and resolve service interruptions in the organizations networks and systems.",
+      "job_res": "Responding to technical support tickets. Talking directly to the customer to determine the nature of the technical issue. Connecting to the customers computer system via remote access. Traveling to the customer’s office or server location for hardware and network malfunctions.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "4-7 Years in this field."
+  },
+  {
+      "id": "5",
+      "img": "https://i.imghippo.com/files/tJr1w1729493719.png",
+      "company_name": "Umbrella Corporation",
+      "position": "Technical Support",
+      "phone": "01704980145",
+      "email": "umbrella@gmail.com",
+      "job_type": "Remote",
+      "job_time": "Full-Time",
+      "salary": "100k-220k",
+      "job_location": "Khalishpur, Khulna",
+      "job_des": "Database Engineers administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability.",
+      "job_res": "Responding to technical support tickets. Talking directly to the customer to determine the nature of the technical issue. Connecting to the customers computer system via remote access. Traveling to the customer’s office or server location for hardware and network malfunctions.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "1-3 Years in this field."
+  },
+  {
+      "id": "6",
+      "img": "https://i.imghippo.com/files/l1ASg1729493700.png",
+      "company_name": "Stark Industries",
+      "position": "Machine Learning",
+      "phone": "01725401800",
+      "email": "stark@gmail.com",
+      "job_type": "Onsite",
+      "job_time": "Full-Time",
+      "salary": "100k-500k",
+      "job_location": "Miami, Usa",
+      "job_des": "We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.",
+      "job_res": "Consulting with managers to determine and refine machine learning objectives. Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models. Documenting machine learning processes.",
+      "edu_req": "Bachelor degree to complete any reputational university.",
+      "exp": "2-4 Years in this field."
+  }
+]

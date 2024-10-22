@@ -9,8 +9,8 @@ const Header = () => {
     </>
 
     return (
-        <div>
-            <div className="navbar bg-secondary">
+        <div className="py-5 bg-secondary">
+            <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -33,7 +33,7 @@ const Header = () => {
                             {links}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">Career Hub</a>
+                    <a className="text-xl md:text-3xl font-bold cursor-pointer text-primary">Career Hub</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -41,7 +41,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                    <a className="btn btn-primary text-white lg:px-6">Star Applying</a>
                 </div>
             </div>
         </div>

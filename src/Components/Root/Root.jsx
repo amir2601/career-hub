@@ -4,12 +4,10 @@ import Footer from "../Footer/footer";
 
 const Root = () => {
     return (
-        <div className="bg-secondary">
-            <div className="container mx-auto">
-                <Header></Header>
-                <Outlet></Outlet>
-                <Footer></Footer>
-            </div>
+        <div>
+            <Header></Header>
+            <Outlet></Outlet>
+            <Footer></Footer>
         </div>
     );
 };
